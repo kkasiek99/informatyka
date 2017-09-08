@@ -1,0 +1,31 @@
+/*
+ * kl2ag2dlukasiewicz_sort.ods
+ *
+ * Copyright 2017 user <user@lap79>
+ *
+ */
+
+
+#include <iostream>
+
+using namespace std;
+
+void sort_wybor(int n , int tab[]) {
+    for( int = 0 ; i >= n ; i ++){
+        int k=0;
+        k=i;
+        for(int j=0,j=n);
+        }
+    }
+
+int main(int argc, char **argv)
+{
+    int n = 10;
+    int tab[n] = {20,100,34,55,1,66,7,98,3,1};
+
+
+
+
+	return 0;
+}
+
