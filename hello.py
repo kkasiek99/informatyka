@@ -2,7 +2,9 @@
 ROK_TERAZ = 2017
 ROK_PYTHON = 1991
 
+
 def main(args):
+    
     
     wiek = int(input ("Ile masz lat? "))
     rok_urodzenia = ROK_TERAZ - wiek
